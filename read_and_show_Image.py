@@ -13,6 +13,7 @@ to use for our projects.
 
 
 #pre-built OpenCV packages for Python
+# https://docs.opencv.org/3.4.7/d1/dfb/intro.html
 import cv2
 
 # https://docs.opencv.org/master/d4/da8/group__imgcodecs.html#ga288b8b3da0892bd651fce07b3bbd3a56
